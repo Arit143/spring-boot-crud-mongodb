@@ -1,11 +1,12 @@
 # spring-boot-crud-mongodb
 Spring boot app for crud operations using mongodb. 
 
-Please clone and statup the app at localhost:8080. Please make sure mongoDB is up and running.
+Please clone and startup the app at localhost:8080. Please make sure mongoDB is up and running.
 
 ### MongoDB setup (OSX)
-For other OS please follow the setup. 
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+For other OS please follow the other setup mentioned in that page. 
 
 ### What has been taken care of
 
